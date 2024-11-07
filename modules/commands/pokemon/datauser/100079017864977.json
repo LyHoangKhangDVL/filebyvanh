@@ -1,0 +1,65 @@
+{
+  "name": "Nghĩa Duy",
+  "ID": "100079017864977",
+  "pet": [
+    {
+      "name": "Entei",
+      "type": "Fire",
+      "HP": "NaN26.026.0NaN26.026.026.0NaN26.0",
+      "Attack": "NaN26.026.0NaN26.026.026.0NaN26.0",
+      "Defense": "NaN26.026.0NaN26.026.026.0NaN26.0",
+      "Speed": "NaN26.026.0NaN26.026.026.0NaN26.0",
+      "coins": "NaN50005000NaN500050005000NaN5000",
+      "skill": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/244.png"
+    },
+    {
+      "name": "Slaking",
+      "type": "Normal",
+      "HP": "210.02020202010.501010100999999",
+      "Attack": "224.02020202011.201010101",
+      "Defense": "140.0202020207.001010100999999",
+      "Speed": "140.0202020207.001010100999999",
+      "coins": "61200.025002500250025003060.0012501250126",
+      "skill": [
+        "Truant"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/289.png"
+    },
+    {
+      "name": "Melmetal",
+      "type": "Steel",
+      "HP": "189.0202020202012",
+      "Attack": "200.2202020202012",
+      "Defense": "200.2202020202012",
+      "Speed": "47.6202020202012",
+      "coins": "54600.0250025002500250025002500",
+      "skill": [
+        "Iron Fist"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/809.png"
+    },
+    {
+      "name": "Solgaleo",
+      "type": "Psychic",
+      "HP": "191.8",
+      "Attack": "191.8",
+      "Defense": "149.8",
+      "Speed": "135.8",
+      "coins": "57360.0",
+      "skill": [
+        "Full Metal Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/791.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 4,
+    "lose": 3,
+    "draw": 3
+  }
+}

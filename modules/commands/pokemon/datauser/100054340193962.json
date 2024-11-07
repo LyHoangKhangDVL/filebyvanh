@@ -1,0 +1,27 @@
+{
+  "name": "Huy Phạm",
+  "ID": "100054340193962",
+  "pet": [
+    {
+      "name": "Seadra",
+      "type": "Water",
+      "HP": "82.5",
+      "Attack": "97.5",
+      "Defense": "142.5",
+      "Speed": "127.5",
+      "skill": [
+        "Poison Point",
+        "Sniper",
+        "Damp"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/117.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

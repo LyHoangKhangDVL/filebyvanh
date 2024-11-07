@@ -1,0 +1,336 @@
+{
+  "name": "Anhdung Le",
+  "ID": "100054396858781",
+  "pet": [
+    {
+      "name": "Cradily",
+      "type": "Rock",
+      "HP": "129.0",
+      "Attack": "121.5",
+      "Defense": "145.5",
+      "Speed": "64.5",
+      "skill": [
+        "Suction Cups",
+        "Storm Drain"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/346.png"
+    },
+    {
+      "name": "Tynamo",
+      "type": "Electric",
+      "HP": "14.0",
+      "Attack": "22.0",
+      "Defense": "16.0",
+      "Speed": "24.0",
+      "skill": [
+        "Levitate"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/602.png"
+    },
+    {
+      "name": "Lurantis",
+      "type": "Grass",
+      "HP": "70.0",
+      "Attack": "105.0",
+      "Defense": "90.0",
+      "Speed": "45.0",
+      "skill": [
+        "Leaf Guard",
+        "Contrary"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/754.png"
+    },
+    {
+      "name": "Zeraora",
+      "type": "Electric",
+      "HP": "44.0",
+      "Attack": "56.0",
+      "Defense": "37.5",
+      "Speed": "71.5",
+      "skill": [
+        "Volt Absorb"
+      ],
+      "coins": 5000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/807.png"
+    },
+    {
+      "name": "Marshadow",
+      "type": "Fighting",
+      "HP": 90,
+      "Attack": 125,
+      "Defense": 80,
+      "Speed": 125,
+      "coins": 42000,
+      "skill": [
+        "Technician"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/802.png"
+    },
+    {
+      "name": "Mimikyu",
+      "type": "Ghost",
+      "HP": 55,
+      "Attack": 90,
+      "Defense": 80,
+      "Speed": 96,
+      "coins": 32100,
+      "skill": [
+        "Disguise"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/778.png"
+    },
+    {
+      "name": "Pikachu",
+      "type": "Electric",
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Speed": 90,
+      "coins": 22000,
+      "skill": [
+        "Static",
+        "Lightning Rod"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png"
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": "148.4",
+      "Attack": "154.0",
+      "Defense": "126.0",
+      "Speed": "182.0",
+      "coins": "52320.0",
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    },
+    {
+      "name": "Mew",
+      "type": "Psychic",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Synchronize"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/151.png"
+    },
+    {
+      "name": "Dragonite",
+      "type": "Dragon",
+      "HP": 91,
+      "Attack": 134,
+      "Defense": 95,
+      "Speed": 80,
+      "coins": 40000,
+      "skill": [
+        "Inner Focus",
+        "Multiscale"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/149.png"
+    },
+    {
+      "name": "Celebi",
+      "type": "Psychic",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Natural Cure"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/251.png"
+    },
+    {
+      "name": "Ho-Oh",
+      "type": "Fire",
+      "HP": "10626.026.026.026.026.026.0",
+      "Attack": "13026.026.026.026.026.026.0",
+      "Defense": "9026.026.026.026.026.026.0",
+      "Speed": "9026.026.026.026.026.026.0",
+      "coins": 71600,
+      "skill": [
+        "Pressure",
+        "Regenerator"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/250.png"
+    },
+    {
+      "name": "Lugia",
+      "type": "Psychic",
+      "HP": null,
+      "Attack": null,
+      "Defense": null,
+      "Speed": null,
+      "coins": null,
+      "skill": [
+        "Pressure",
+        "Multiscale"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/249.png"
+    },
+    {
+      "name": "Tyranitar",
+      "type": "Rock",
+      "HP": "140.0",
+      "Attack": "187.6",
+      "Defense": "154.0",
+      "Speed": "85.4",
+      "coins": "48600.0",
+      "skill": [
+        "Sand Stream",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/248.png"
+    },
+    {
+      "name": "Suicune",
+      "type": "Water",
+      "HP": 100,
+      "Attack": 75,
+      "Defense": 115,
+      "Speed": 85,
+      "coins": 37500,
+      "skill": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/245.png"
+    },
+    {
+      "name": "Entei",
+      "type": "Fire",
+      "HP": "NaN",
+      "Attack": "NaN",
+      "Defense": "NaN",
+      "Speed": "NaN",
+      "coins": "79587.9",
+      "skill": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/244.png"
+    },
+    {
+      "name": "Solgaleo",
+      "type": "Psychic",
+      "HP": "191.8",
+      "Attack": "191.8",
+      "Defense": "149.8",
+      "Speed": "135.8",
+      "coins": "57360.0",
+      "skill": [
+        "Full Metal Body"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/791.png"
+    },
+    {
+      "name": "Kyurem",
+      "type": "Dragon",
+      "HP": 125,
+      "Attack": 130,
+      "Defense": 90,
+      "Speed": 95,
+      "coins": 44000,
+      "skill": [
+        "Pressure"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/646.png"
+    },
+    {
+      "name": "Landorus",
+      "type": "Ground",
+      "HP": 89,
+      "Attack": 125,
+      "Defense": 90,
+      "Speed": 101,
+      "coins": 40500,
+      "skill": [
+        "Sand Force",
+        "Sheer Force"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/645.png"
+    },
+    {
+      "name": "Zekrom",
+      "type": "Dragon",
+      "HP": 100,
+      "Attack": 150,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 46000,
+      "skill": [
+        "Teravolt"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": "168.020.820.820.820.820.820.820.8",
+      "Attack": "168.020.820.820.820.820.820.820.8",
+      "Defense": "168.020.820.820.820.820.820.820.8",
+      "Speed": "168.020.820.820.820.820.820.820.8",
+      "coins": "57600.05000500050005000500050005000",
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Giratina",
+      "type": "Ghost",
+      "HP": 150,
+      "Attack": 100,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 46000,
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/487.png"
+    },
+    {
+      "name": "Rayquaza",
+      "type": "Dragon",
+      "HP": "147.0",
+      "Attack": "210.0",
+      "Defense": "126.0",
+      "Speed": "133.0",
+      "coins": "52800.0",
+      "skill": [
+        "Air Lock"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png"
+    },
+    {
+      "name": "Groudon",
+      "type": "Ground",
+      "HP": "140.020",
+      "Attack": "210.020",
+      "Defense": "196.020",
+      "Speed": "126.020",
+      "coins": "57600.02500",
+      "skill": [
+        "Drought"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/383.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 2,
+    "lose": 4,
+    "draw": 1
+  }
+}

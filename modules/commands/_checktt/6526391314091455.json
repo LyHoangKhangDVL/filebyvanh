@@ -1,0 +1,65 @@
+{
+    "total": [
+        {
+            "id": "100034491044221",
+            "count": 229
+        },
+        {
+            "id": "100064829510922",
+            "count": 275
+        },
+        {
+            "id": "100087055215711",
+            "count": 242
+        },
+        {
+            "id": "100092341487568",
+            "count": 74
+        }
+    ],
+    "week": [
+        {
+            "id": "100034491044221",
+            "count": 89,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100064829510922",
+            "count": 117,
+            "name": "Vanh Mai Ben Em"
+        },
+        {
+            "id": "100087055215711",
+            "count": 215,
+            "name": "Pham Cam Lien "
+        },
+        {
+            "id": "100092341487568",
+            "count": 0,
+            "name": "Reid Sad"
+        }
+    ],
+    "day": [
+        {
+            "id": "100034491044221",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100064829510922",
+            "count": 0,
+            "name": "Vanh Mai Ben Em"
+        },
+        {
+            "id": "100087055215711",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        },
+        {
+            "id": "100092341487568",
+            "count": 0,
+            "name": "Reid Sad"
+        }
+    ],
+    "time": 5
+}

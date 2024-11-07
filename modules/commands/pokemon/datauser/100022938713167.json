@@ -1,0 +1,35 @@
+{
+  "name": "Nguyễn Mạnh",
+  "ID": "100022938713167",
+  "pet": [
+    {
+      "name": "Weedle",
+      "type": "Bug",
+      "HP": 40,
+      "Attack": 35,
+      "Defense": 30,
+      "Speed": 50,
+      "coins": 15500,
+      "skill": [
+        "Shield Dust",
+        "Run Away"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/013.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "𝐑𝐞𝐝 𝐒𝐭𝐞𝐰 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🍓",
+      "type": "Fire",
+      "HP": "4",
+      "Attack": "4",
+      "Defense": "4",
+      "Speed": "4"
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

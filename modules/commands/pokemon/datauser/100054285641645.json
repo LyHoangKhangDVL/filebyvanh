@@ -1,0 +1,35 @@
+{
+  "name": "Hao Giang",
+  "ID": "100054285641645",
+  "pet": [
+    {
+      "name": "Kecleon",
+      "type": "Normal",
+      "HP": "90.0",
+      "Attack": "135.0",
+      "Defense": "105.0",
+      "Speed": "60.0",
+      "skill": [
+        "Color Change",
+        "Protean"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/352.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "𝐕𝐞𝐠𝐠𝐢𝐞 𝐒𝐦𝐨𝐨𝐭𝐡𝐢𝐞 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🥙",
+      "type": "Normal",
+      "HP": "16",
+      "Attack": "16",
+      "Defense": "16",
+      "Speed": "16"
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

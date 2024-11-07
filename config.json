@@ -1,0 +1,215 @@
+{
+    "NOTIFICATION": true,
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "adminOnly": false,
+    "encryptSt": false,
+    "UPTIME": 1279342.1327339937,
+    "DASHBOARD": false,
+    "commandDisabled": [
+        "autodow.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "Pain Thiên Đạo",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100064829510922",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "100088047763575",
+        "100001220117756",
+        "100065100018271",
+        "100074100999543",
+        "100088424419028",
+        "100094248967686"
+    ],
+    "NDH": [
+        "100064829510922",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "NPM_FCA": "fca-disme",
+    "SETUP_WIN": {
+        "port": 8888,
+        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:87.0) Gecko/20100101 Firefox/87.0"
+    },
+    "version": "1.2.15",
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 99999,
+        "unsendMessageAfter": 5000000
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "baolixi": {
+        "cooldownTime": 1200000
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "checktt": {
+        "maxColumn": 10
+    },
+    "gamelq": {
+        "cooldownTime": 60
+    },
+    "lamviec": {
+        "cooldownTime": 1200000
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 6120
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "sim": {
+        "APIKEY": "Meew_fpt8rxxlwH1MzNcygOzzWwqYML5yoA"
+    },
+    "subnautica": {
+        "APIKEY": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "áº£nh": {
+        "API_KEY": "DC-N_dbd739ba-e1fd-49f5-ac00-29c429e88738"
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "zwar": {
+        "cooldownTime": 1200000
+    },
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "tbank": {
+        "key": "DUBFREE"
+    },
+    "xedua": {
+        "key": "Nghia9005"
+    },
+    "check3": {
+        "maxColumn": 10
+    },
+    "duaxe": {
+        "key": "ThanhAli"
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBDYHNvjjypPX1CGE7qcW9GSo_CAEWRw9s",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "mine": {
+        "APIKEY": ""
+    },
+    "voice": {
+        "zalo_apikey": "r5lKNWX89OJEJMXlUEpGEzcjByjGb2F0",
+        "fpt_apikey": "MhYPX3ksxwdqLC63LiAR4r47sOrkSdhj"
+    },
+    "daily": {
+        "cooldownTime": 86400000,
+        "rewardCoin": 5000,
+        "rewardUsages": 100
+    },
+    "dino": {
+        "cooldownTime": 1000000
+    },
+    "ảnh": {
+        "API_KEY": "DC-N_dbd739ba-e1fd-49f5-ac00-29c429e88738"
+    },
+    "youtube": {
+        "YOUTUBE_API": "AIzaSyBNqRSYmQ9D1WWIa186k8nSvo5mr2Rvk5M"
+    },
+    "alladminonly": true,
+    "ndhOnly": false,
+    "allqtvonly": true,
+    "tiktok": {
+        "key": "nLXuitFX"
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyBKgc6dhJ7kn4cSxqVOckkGFL0h4cryxKQ"
+    },
+    "lq1": {
+        "fb_token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+    },
+    "nhantien": {
+        "cooldownTime": 300000,
+        "rewardCoin": 100000
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBqeKbtKeo0mDcNXDpfwHKH0EHEEdmbre8"
+    },
+    "adminPersonalOnly": false,
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "nettruyen": {
+        "meewmeew_apikey": "",
+        "limitPerMessage": 9,
+        "home_page": "https://meewmeew.info/site"
+    },
+    "shortlink": {
+        "bitlyAPI": ""
+    },
+    "subnau": {
+        "APIKEY": ""
+    }
+}

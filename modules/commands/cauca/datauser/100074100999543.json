@@ -1,0 +1,29 @@
+{
+  "name": "Pham Khanh Ngoc",
+  "ID": "100074100999543",
+  "mainROD": "Tungsten Core Harpoon",
+  "GPS": {
+    "locate": "The Crater",
+    "area": "Crash Zone"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Cá Thách Đấu",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Tungsten Core Harpoon",
+      "price": 8000,
+      "durability": 190,
+      "countdown": 100,
+      "countdownData": 1690304002287,
+      "image": "https://i.imgur.com/Ki8rCeH.png"
+    }
+  ],
+  "timeRegister": "23:47:56, 25/7/2023"
+}

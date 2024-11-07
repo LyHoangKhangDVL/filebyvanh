@@ -1,0 +1,49 @@
+{
+  "name": "Trong Ngoc",
+  "ID": "100021569590761",
+  "pet": [
+    {
+      "name": "Venusaur",
+      "type": "Grass",
+      "HP": 80,
+      "Attack": 82,
+      "Defense": 83,
+      "Speed": 80,
+      "coins": 32500,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/003.png"
+    },
+    {
+      "name": "Blastoise",
+      "type": "Water",
+      "HP": 79,
+      "Attack": 83,
+      "Defense": 100,
+      "Speed": 78,
+      "coins": 34000,
+      "skill": [
+        "Torrent",
+        "Rain Dish"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/009.png"
+    }
+  ],
+  "foods": [
+    {
+      "name": "𝐌𝐨𝐮𝐭𝐡 𝐖𝐚𝐭𝐞𝐫𝐢𝐧𝐠 𝐃𝐢𝐩 𝐚 𝐥𝐚 𝐂𝐮𝐛𝐞 🌽",
+      "type": "Grass",
+      "HP": "12",
+      "Attack": "12",
+      "Defense": "12",
+      "Speed": "12"
+    }
+  ],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}

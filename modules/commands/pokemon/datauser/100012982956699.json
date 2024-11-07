@@ -1,0 +1,194 @@
+{
+  "name": "Bún Đậu Sữa Chua",
+  "ID": "100012982956699",
+  "pet": [
+    {
+      "name": "Mantyke",
+      "type": "Water",
+      "HP": "67.5",
+      "Attack": "30.0",
+      "Defense": "75.0",
+      "Speed": "75.0",
+      "skill": [
+        "Swift Swim",
+        "Water Absorb",
+        "Water Veil"
+      ],
+      "coins": 20000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/458.png"
+    },
+    {
+      "name": "Bruxish",
+      "type": "Water",
+      "HP": "68.0",
+      "Attack": "105.0",
+      "Defense": "70.0",
+      "Speed": "92.0",
+      "skill": [
+        "Dazzling",
+        "Strong Jaw",
+        "Wonder Skin"
+      ],
+      "coins": 10000,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/779.png"
+    },
+    {
+      "name": "Bulbasaur",
+      "type": "Grass",
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Speed": 45,
+      "coins": 18800,
+      "skill": [
+        "Overgrow",
+        "Chlorophyll"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png"
+    },
+    {
+      "name": "Mewtwo",
+      "type": "Psychic",
+      "HP": null,
+      "Attack": null,
+      "Defense": null,
+      "Speed": null,
+      "coins": null,
+      "skill": [
+        "Pressure",
+        "Unnerve"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png"
+    },
+    {
+      "name": "Mew",
+      "type": "Psychic",
+      "HP": null,
+      "Attack": null,
+      "Defense": null,
+      "Speed": null,
+      "coins": null,
+      "skill": [
+        "Synchronize"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/151.png"
+    },
+    {
+      "name": "Lugia",
+      "type": "Psychic",
+      "HP": "148.4",
+      "Attack": "126.0",
+      "Defense": "182.0",
+      "Speed": "154.0",
+      "coins": "52320.0",
+      "skill": [
+        "Pressure",
+        "Multiscale"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/249.png"
+    },
+    {
+      "name": "Entei",
+      "type": "Fire",
+      "HP": 115,
+      "Attack": 115,
+      "Defense": 85,
+      "Speed": 100,
+      "coins": 41500,
+      "skill": [
+        "Pressure",
+        "Inner Focus"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/244.png"
+    },
+    {
+      "name": "Ho-Oh",
+      "type": "Fire",
+      "HP": 106,
+      "Attack": 130,
+      "Defense": 90,
+      "Speed": 90,
+      "coins": 41600,
+      "skill": [
+        "Pressure",
+        "Regenerator"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/250.png"
+    },
+    {
+      "name": "Celebi",
+      "type": "Psychic",
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Speed": 100,
+      "coins": 40000,
+      "skill": [
+        "Natural Cure"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/251.png"
+    },
+    {
+      "name": "Mudsdale",
+      "type": "Ground",
+      "HP": 100,
+      "Attack": 125,
+      "Defense": 100,
+      "Speed": 35,
+      "coins": 36000,
+      "skill": [
+        "Own Tempo",
+        "Stamina",
+        "Inner Focus"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/750.png"
+    },
+    {
+      "name": "Arceus",
+      "type": "Normal",
+      "HP": "12020.8",
+      "Attack": "12020.8",
+      "Defense": "12020.8",
+      "Speed": "12020.8",
+      "coins": 53000,
+      "skill": [
+        "Multitype"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png"
+    },
+    {
+      "name": "Dialga",
+      "type": "Steel",
+      "HP": "140.0",
+      "Attack": "168.0",
+      "Defense": "168.0",
+      "Speed": "126.0",
+      "coins": "51600.0",
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/483.png"
+    },
+    {
+      "name": "Giratina",
+      "type": "Ghost",
+      "HP": 150,
+      "Attack": 100,
+      "Defense": 120,
+      "Speed": 90,
+      "coins": 46000,
+      "skill": [
+        "Pressure",
+        "Telepathy"
+      ],
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/487.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 5,
+    "lose": 4,
+    "draw": 4
+  }
+}

@@ -1,0 +1,133 @@
+{
+    "total": [
+        {
+            "id": "688718094",
+            "count": 6
+        },
+        {
+            "id": "100055667417918",
+            "count": 4
+        },
+        {
+            "id": "100075132573579",
+            "count": 8
+        },
+        {
+            "id": "100082009841042",
+            "count": 34
+        },
+        {
+            "id": "100082698521785",
+            "count": 0
+        },
+        {
+            "id": "100088550244431",
+            "count": 0
+        },
+        {
+            "id": "100088602740817",
+            "count": 0
+        },
+        {
+            "id": "100088047763575",
+            "count": 11
+        },
+        {
+            "id": "100087055215711",
+            "count": 29
+        }
+    ],
+    "week": [
+        {
+            "id": "688718094",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100055667417918",
+            "count": 4,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075132573579",
+            "count": 6,
+            "name": "Mạo Sư"
+        },
+        {
+            "id": "100082009841042",
+            "count": 30,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100082698521785",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088550244431",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088602740817",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088047763575",
+            "count": 11
+        },
+        {
+            "id": "100087055215711",
+            "count": 29
+        }
+    ],
+    "day": [
+        {
+            "id": "688718094",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100055667417918",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100075132573579",
+            "count": 0,
+            "name": "Mạo Sư"
+        },
+        {
+            "id": "100082009841042",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100082698521785",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088550244431",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088602740817",
+            "count": 0,
+            "name": "Người dùng facebook"
+        },
+        {
+            "id": "100088047763575",
+            "count": 0,
+            "name": "Đỗ Thị Hồng Thương"
+        },
+        {
+            "id": "100087055215711",
+            "count": 0,
+            "name": "Người dùng Facebook"
+        }
+    ],
+    "time": 5
+}
